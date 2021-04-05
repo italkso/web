@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Web Technologies
 
-You can use the [editor on GitHub](https://github.com/italkso/web/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Web technologies include `HTML`, `CSS`, `JavaScript` and some libraries like `React`, `node.js`.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### HTML
 
-### Markdown
+[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) is a markup language that tells web browsers how to structure the web pages. HTML consists of a serises of elements which have some properties.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### CSS
 
-- Bulleted
-- List
+[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) is a style sheet language which you can use to selectively style HTML elements. CSS is mostly based on the box model.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```css
+p { 
+	border-radius: 10px;
+}
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/italkso/web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### JavaScript
 
-### Support or Contact
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) is dynamic programming language that can adds interactivity to your website.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+$JavaScript = ECMAScript + DOM + BOM$
+
+
+
+
+
+
