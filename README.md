@@ -24,9 +24,9 @@ p {
 
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) is dynamic programming language that can adds interactivity to your website.
 
-$JavaScript = ECMAScript + DOM + BOM$
-
-
+```bash
+JavaScript = ECMAScript + DOM + BOM
+```
 
 
 
